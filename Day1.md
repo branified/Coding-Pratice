@@ -1,10 +1,10 @@
 *Java Programming Assesment. NDA*
 
--understanding of iterators
--Class creation
--Running code on VM and fixing errors
--Debugging: Understanding error messages and how to fix them: NullPointerException
--XOR Base64 Encoding and Decoding: Python
+-understanding of iterators  
+-Class creation  
+-Running code on VM and fixing errors  
+-Debugging: Understanding error messages and how to fix them: NullPointerException  
+-XOR Base64 Encoding and Decoding: Python  
 
 *Leetcode Exercises*
 https://leetcode.com/problems/palindrome-linked-list/
