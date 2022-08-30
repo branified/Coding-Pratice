@@ -22,16 +22,8 @@ class Solution:
 
 https://leetcode.com/problems/two-sum/ -Python
 
-```
-class Solution:
-    def twoSum(self, nums: List[int], target: int) -> List[int]:
-        for i in range(len(nums)):
-            for j in range(i+1,len(nums)):
-                if nums[i] + nums[j] == target:
-                    return[i, j]
+See my [code](two_sum.py)
 
-#Brute force method: O(n^2) Time
-```
 
 https://leetcode.com/problems/combine-two-tables/ -MySQL
 
